@@ -8,7 +8,6 @@ USER expense    # MYSQL_DATABASE=transactions \
     # MYSQL_USER=expense \
     # MYSQL_PASSWORD=ExpenseApp@1
 
-
-
+    
 #docker build -t mysql:v1 .     ---build
 #docker run -d --name mysql mysql:v1    --set name while run the container   
